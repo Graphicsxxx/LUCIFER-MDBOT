@@ -1,14 +1,14 @@
 {
-  "name": "suhail-md",
-  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
-  "logo": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
-  "success_url": "/suhail/",
-  "app_url": "/suhail/",
+  "name": "Lucifer-mdbot",
+  "description": "I am lucifer-Mdbot Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
+  "logo": "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg",
+  "keywords": ["whatsappbot", "luciferMdbot", "lucifer Md bot", "Lucifer-Md", "LuciferMdWhatsaooBot", "LuciferWaBot","LuciferMD","Lucifer Md Whatsapp Bot","multi device"],
+  "success_url": "/Lucifer/",
+  "app_url": "/Lucifer/",
   
   "env": {
     "OWNER_NAME": {
-      "description": "Name of Bot Owner",    
+      "description": "PHANTOM XDOT",    
       "value": "Suhail Ser",
       "required" :true
     },   
@@ -25,14 +25,14 @@
       "required" :false
     },
     "BOT_NAME": {
-      "description": " NAME FOR BOT",
-      "required" :false,    
+      "description": " LUCIFER-MDBOT",
+      "required" :true,    
       "value": "sᴜʜᴀɪʟ-ᴍᴅ"
     }, 
     "IMAGE": {
-      "description": "Image for bot",
-      "required" :false,    
-      "value": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"
+      "description": "Lucifer png",
+      "required" :true,    
+      "value": "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -95,12 +95,12 @@
       "required" :false
     },
     "PREFIX": {
-      "description": "Enter your desired prefix for bot.",
+      "description": "Enter your desired prefix for bot eg /,?.",
       "value": "."
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "2348108395270"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -118,7 +118,7 @@
       "required" :false
     }, 
     "REMOVE_BG_KEY": {
-      "description": "put your REMOVE BG KEY here.Get it from removeBg.com ",
+      "description": "put your REMOVE BG KEY here.leave it blank if you dont have",
       "value": "",
       "required" :false
     },
@@ -128,12 +128,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "Lucifer mdbot",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "Phantom-md",
       "required": false 
     }
   }, 
