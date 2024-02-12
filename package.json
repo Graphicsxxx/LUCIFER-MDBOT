@@ -1,7 +1,7 @@
 {
-   "name": "suhail-md",
+   "name": "lucifer-mdbot",
    "version": "1.2.8-api",
-   "description": "Multi device whatsapp bot by SuhailTechInfo.",
+   "description": "Multi device whatsapp bot by Lucifer md team.",
    "main": "lib/client.js",
    "type": "commonjs",
    "engines" : { "node": "v18.16.0", "npm": "9.5.1" },
